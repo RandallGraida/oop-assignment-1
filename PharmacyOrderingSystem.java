@@ -1,3 +1,21 @@
+/*
+* ==== Name ====
+* Carlos Randall S. Graida
+*
+* ==== Course ====
+* B.S. Information Technology
+*
+* ==== Year ====
+* 2nd
+*
+* ==== Section ====
+* BSIT 2-2
+*
+* ==== Name of File ====
+* PharmacyOrderingSystem.java
+*/
+
+
 import java.util.Scanner;
 
 public class PharmacyOrderingSystem {
